@@ -75,7 +75,7 @@
  */
 
 
-class CAdvancedArbehavior extends CActiveRecordBehavior
+class CAdvancedArBehavior extends CActiveRecordBehavior
 {
 	// Set this to false to disable tracing of changes
 	public $trace = true;
